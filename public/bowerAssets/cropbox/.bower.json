@@ -1,0 +1,14 @@
+{
+  "name": "cropbox",
+  "homepage": "https://github.com/hongkhanh/cropbox",
+  "version": "0.1.0",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.0",
+    "commit": "6af07086bef30c8c1b35aff356b887e01c24019d"
+  },
+  "_source": "git://github.com/hongkhanh/cropbox.git",
+  "_target": "~0.1.0",
+  "_originalSource": "hongkhanh/cropbox"
+}
